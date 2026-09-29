@@ -1,0 +1,6 @@
+{
+  "name": "تساهيل | TASAHEEL - منصة التوصيل الشاملة",
+  "description": "من طلبك إلى بابك - منصة توصيل محلية متكاملة تجمع المطاعم، الصيدليات، البقالات، خدمات الطالبات، وطلب سيارات المشاوير والطرود.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
